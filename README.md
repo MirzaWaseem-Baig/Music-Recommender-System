@@ -1,2 +1,11 @@
-# Music-Recommender-System
-This repository contains the code and documentation for a music recommender system that suggests songs based on user preferences using content based filtering technique.
+# Music Recommender System
+
+## Description
+This project is a music recommender system that suggests songs based on user preferences. The system uses collaborative filtering techniques to recommend music. This project was inspired by a tutorial from [YouTube Channel Name](link to the tutorial).
+
+## Installation
+To run this project, clone the repository and install the required dependencies:
+```bash
+git clone https://github.com/MirzaWaseem-Baig/Music-Recommender-System.git
+cd music-recommender-system
+pip install -r requirements.txt
